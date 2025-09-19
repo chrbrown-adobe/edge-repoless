@@ -1,4 +1,6 @@
 mountpoints:
-  /:
-    url: https://content.da.live/chrbrown-adobe/edge-repoless/
-    type: markup
+
+   /:
+     url: "https://author-p107109-e1000961.adobeaemcloud.com/bin/franklin.delivery/chrbrown-adobe/EdgeRepoless/main"
+     type: "markup"
+     suffix: ".html"
